@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71a3bece76b60ca43beca266beac03b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - vidaTexto: {instanceID: 0}
+  - balasTexto: {instanceID: 0}
+  - killsTexto: {instanceID: 0}
+  - panelMuerte: {fileID: 8319972950216944900, guid: ed314a3177ea4df4aa685df96150283e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
